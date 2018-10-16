@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+body{
+	width: 100%;
+	high: 100%;
+	margin: 0px;
+	background-color: #3c3744; 
+}
+header{
+	width: 100%;
+	high: 100%;
+	background-color: #3c3744;
+}
+div{
+	width: 100%;
+	high: 100%;
+	margin: 0px;
+	background-color: #3c3744;
+}
+form{
+	width: 100%;
+	high: 100%;
+	margin: 10px;
+	background-color: #3c3744;
+}
+input{
+	border-radius: 10px;
+	background-color: #A7C3A9;
+}
+button{
+	border-radius: 10px;
+	background-color: #3c3744;
+}
+h3{
+	color: #B4CEC0;
+}
+button.anmelden{
+	background-color: #A7C3A9;
+}
